@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./nicephorigregor04schogoog_0012.png"; bbox 0 0 3184 5100; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 192 1617 1228 1790">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 192 1617 1228 1790">
+     <span class='ocr_line' id='line_1_1' title="bbox 192 1617 1228 1790; baseline -0.003 -64"><span class='ocrx_word' id='word_1_1' title='bbox 192 1619 640 1726; x_wconf 77' lang='grc' dir='ltr'><em>ΝΙΚΗΦΟΡΟΤ</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 678 1619 816 1724; x_wconf 75' lang='grc' dir='ltr'><em>ΤΟΤ</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 847 1617 1228 1790; x_wconf 66' lang='grc' dir='ltr'><em>ΓΕΗΓΟΡΑ</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 423 1909 1222 1999">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 423 1909 1222 1999">
+     <span class='ocr_line' id='line_1_2' title="bbox 423 1909 1222 1999; baseline 0 -3"><span class='ocrx_word' id='word_1_4' title='bbox 423 1911 713 1998; x_wconf 83' lang='grc' dir='ltr'><em>ΡΩΜΑΙΚΗ</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 745 1909 1007 1999; x_wconf 83' lang='grc' dir='ltr'><em>ΙΣΤΟΡΙΑ.</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 1218 1943 1222 1947; x_wconf 63' lang='grc'><em>’</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 566 2181 866 2194">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 566 2181 866 2194">
+     <span class='ocr_line' id='line_1_3' title="bbox 566 2181 866 2194; baseline -0.007 -1"><span class='ocrx_word' id='word_1_7' title='bbox 566 2181 866 2194; x_wconf 50' lang='lat' dir='ltr'><em>ffl-</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1596 5100">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1596 5100">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1596 5100; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1596 5100; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
